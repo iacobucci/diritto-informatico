@@ -1,0 +1,13 @@
+---
+geometry: margin=2cm
+header-includes: |
+  \usepackage{microtype}
+  \usepackage{setspace}
+  \setstretch{1.25}
+  \usepackage{listings}
+  \usepackage{xcolor}
+  \lstset{
+      basicstyle=\small\ttfamily,
+      breaklines=true,
+      postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space},
+  }
