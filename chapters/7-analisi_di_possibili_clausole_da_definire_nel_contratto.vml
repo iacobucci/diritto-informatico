@@ -1,0 +1,148 @@
+articoli rilevanti
+	contratto d'opera
+	contratto d'opera intellettuale
+		esercizio profesisoni intellettuali
+		se esercizio condizionato dalla iscrizione ad albo
+			cancellazione da albo risolve il contratto
+
+parte generale
+	soggetti
+		persone fisiche
+		persone giuridiche
+	oggetto
+		chiaro
+		quale software
+		in che modo sarà rilasciato
+			saas
+		titolo se ne prevede la realizzazione e la consegna
+			cessoine diritti di utilizzazione economica
+		
+albo ingegneri
+	a
+		specialisti
+	b
+		junior
+	settori
+		un ingegnere non può esercitare competenze in settori diversi da quelli per cui è iscritto
+			previo superamento di esame di stato
+	ingegnere dell'informazione
+		pianificazione
+		progettazione
+		sviluppo
+		collaudo
+
+responsabile
+	esecuzione di un contratto
+
+esecuzione opera
+	prestatore non procede ad esecuzione secondo condizioni stabilite
+		committente può fissare un congruo temine
+			recedere dal contratto
+			diritto risarcimento dei danni
+	fasi
+		definzione strategica
+		pianificazione
+		controllo qualità
+		analisi dei requisiti
+		progettazione
+		realizzazione e collaudio
+		certificazione
+		installazione
+		collaudo
+			criteri di verifica
+			che effetti ha
+				implica accettazoine
+					si
+					no
+		esercizio
+		diagnosi e manutenzione
+		evoluzione
+		messa fuori servizio
+	definire criteri di verifica
+		adempimento obblighi
+	obblighi committente
+		indicare
+			informazioni
+			termini
+		denunziare difformità
+			se notate
+				entro 8 giorni
+			se occultate da parte del prestatore
+				reato
+			se non denunciate
+				committente perde diritto di eccepire difformità
+	garanzie
+		buona progettazione
+		buon funzionamento
+		assenza file nocivi
+		non violazione diritti di terzi
+		mancanza di difetti occulti
+		esclusione garanzia
+			il committente usa il software in modo non conforme
+	limiti entro i quali si rispod di danni
+		omissioni nell'esecuzione
+		dano all'immagine
+	manutenzione
+		specificare se si fornireanno
+			aggionramenti
+			assistenza
+	formazione
+		erogati servizi di formazione
+	variazioni
+		entro quali limiti il committente può apportare variazion al software
+		richiesta variaizoni
+			pec
+			email
+		specificare
+			impegni parti
+	impossibilità per causa non imputabile
+		il prestatore ha diritto a compenso in misura dell'utilità
+	titolo al quale il committente è ammesso a fare uso del software
+		cessione
+			tutti i diritti
+			alcuni diritti
+		licenza d'uso
+			periodo
+			esclusia o non esclusiva
+			sub licenza
+			numero di installazioni
+			finalità
+			tipo
+				locale
+					in rete
+	compenso
+		quantificazione
+			ore
+			percentuale
+			fisso
+			variabile
+		condizioni
+			anticipo
+			percentuale
+			percentuale su incasso
+			percentuale su ut
+		modalità
+		con diritto di recesso
+			recesso commmittente
+				rimborso
+	spese
+		prevedere spese
+	risoluzione del contratto
+		eventi che le cause vogliono considerare come risoluzione
+	cessione del contratto
+		a terzi
+			si
+			no
+	trattamento dei dati personali
+		persone fisiche
+		ingegnere è responsabile del trattamento
+	clausola di riservatezza
+		durata
+		non può fare menzione
+			non può mettere in curriculum
+
+contratto
+	professionista
+		opera intellettuale
+	software house
+		appalto di servizi
