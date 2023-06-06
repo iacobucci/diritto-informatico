@@ -1,0 +1,261 @@
+gdpr
+	general data protection regulation
+	in vigore
+		25 maggio 2016
+	si applica alla ue
+		25 maggio 2018
+
+protegge
+	diritti liberta fondamentali
+		persone fisiche in merito a dati personali
+		non persone giuridiche
+	non si applica a dati anonimi
+
+si applica al trattamento
+	automatizzato
+	non automatizzato
+
+non si applica
+	trattamento effettuato da persone fisiche per attività personali o domestiche
+	autorità competenti ai fini di prevenzione, indagine, accertamento e perseguimento di reati
+
+territorio
+	ue
+	non ue
+		aziende ue
+		aziende non ue che trattano dati di persone fisiche ue
+
+dato personale
+	informazione relativa a persona fisica identificata o identificabile
+		direttamente o indirettamente
+			nome
+			numero identificativo
+			dati di localizzazione
+			identificativo online
+			elementi caratteristici
+				fisici
+				fisiologici
+				genetici
+				psichici
+	comune
+	sensibile
+		origine razziale
+		opinioni politiche
+		convinzioni religiose
+
+trattamento
+	raccolta
+	registrazione
+	organizzazione
+	strutturazione
+	conservazione
+	adattamento
+	modifica
+	recupero
+	consultazione
+	utilizzo
+	diffusione
+	profilazione
+		trattaento automatizzato
+		analizzare e prevedere
+			rendimento
+			situazione economica
+			salute
+			preferenze personali
+	pseudonimizzazione
+		non permette identificazione senza informazioni aggiuntive
+
+soggetti coinvolti
+	titolare
+		chi determina finalità e mezzi del trattamento
+		chi è responsabile del trattamento
+		chi è responsabile della protezione dei dati
+	responsabile del trattamento
+		chi tratta dati per conto del titolare
+		chi è autorizzato dal titolare
+		data processor
+			garanzie suufficenti per misure tecniche organizzative adeguate
+		come è nominato
+			contratto
+				materia
+				duerata
+				natura
+				finalità
+				categorie interessati
+	autorità di controllo
+		chi controlla il trattamento
+		chi è responsabile d
+	interessato
+		persona fisica
+
+registri di attività
+	imprese con meno di 250 dipendenti
+		trattamento non occasionale
+		trattamento che comporta rischi per diritti e libertà
+
+registro del titolare
+	nome e contatti del titolare
+	finalità del trattamento
+	descrizione categorie interessati
+	descrizione categorie destinatari
+	trasferimenti verso un paese terzo
+
+registro del responsabile
+	dpo
+	nome e contatti del responsabile
+	categorie trattamenti per conto del titolare
+	trasferimenti verso un paese terzo
+
+misure di sicurezza
+	tecniche
+		garantite
+		rischi
+			distruzione
+			predefinita 
+			modifica
+			divulgazione non autorizzata
+		misure
+			pseudonimizzazione
+			cifratura
+			ripristino tempestivo
+			test
+
+notifica violazione dati
+	entro 72 ore
+		al garante privacy
+		ammeno che non sia probabile
+			rischio per diritti e libertà
+			rischio per interessati
+	il titolare ha adottato misure per scongiurare il rischio
+
+data impact protection assessment
+	analisi di impatto
+		sistematica
+		contenuto
+			descrizione
+			valutazione necessità
+			misure per ridurre rischi
+
+responsabile della protezione dati
+	data protection officer
+		supporto all'applicazione del regolamento
+		può essere dipendente o esterno
+		no conflitto di interesse
+		dati pubblicati dal garante
+		facilmente contattabile
+	compiti minimi
+		informate e consigliare
+		monitorare conformità
+			regolamento
+			norme ue
+		cooperare con garante privacy
+
+codici di condotta
+	corretta applicazione del regolamento
+
+certificazioni
+	sigilli e marchi di protezoine dati
+		dimostarre conformità
+
+trasferimenti extra ue
+	se il titolare rispettano le condizioni del regolamento
+		adeguatezza
+			garanzia protezione adeguata
+		deroghe
+			consenso dell'interessato
+			trasferimento necessario all'esecuzione di un contratto
+	ue usa
+		safe harbor
+			invalidato 2015
+		privacy shield
+			invalidato 2022
+
+sanzioni gdpr
+	10mln o 2% del fatturato
+		non registro
+		non notifica violazione
+	20mln o 4% del fatturato
+		non rispetta
+	illeciti penali codice privacy
+		non rispetta
+		non collabora con garante
+		non rispetta diritti interessati
+		
+garante
+	oragno collegiale composto da 4 membri
+		2 nominati dalla camera dei deputati
+		2 nominati dal senato
+	compiti
+		verifica l'applicazione del regolamento
+		esamina reclami
+		segnala a governo e parlamento eventuali modifiche
+		denuncia violazioni
+		relazione annuale
+
+principi applicabili
+	liceità
+		consenso
+			chiaro
+			diritto di revoca
+				in qualsiasi momento
+				con stessa facilità
+			minori
+				almeno 16 anni
+				consenso genitori
+				italia
+					14 anni
+		contratto
+		obbligo legale
+		salvaguardia interessi vitali
+		compito di interesse pubblico
+		necessario
+			legittimo interesse
+	correttezza
+		vietata
+			sensibili
+		ammeno che il trattamento sia
+			autorizzato
+			necessario
+				protezione sociale
+			per finalità di interesse pubblico
+	trasparenza
+		informativa prima
+			finalità
+			destinatari
+			durata
+			diritti
+				reclamo
+				revoca
+				accesso
+				rettifica
+				intergrazione
+				cancellazione
+	limitazione delle finalità
+		archivio storico ok
+	minimizzazione dei dati
+		solo quelli necessari
+	esattezza
+	limitazione della conservazione
+		tempo non superiore
+	integrità e riservatezza
+	responsabilizzazione
+		comprovata responsabilità
+
+trattamento principi particolari
+	consenso esplicito
+	obblighi di protezione sociale
+	necessario difendere in sede giudiziaria
+	interesse pubblico rilevante
+	sanità pubblica
+	archiviazione pubblico interesse
+	ricerca scientifica
+
+protezione dalla progettazione
+	pseudonimizzazione
+	privacy by design
+		dalla progettazione
+	privacy by default
+		per impostazione predefinita
+		
+
+	
