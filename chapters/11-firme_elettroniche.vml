@@ -1,0 +1,243 @@
+l 59/15 marzo 1997
+	sono validi documenti formati falla pubbblica amministrazione e dai privati con strumenti informatici
+		formazione atti
+		stipula di contratti
+		archiviazione e trasmissione di documenti
+	
+dlgs 82/7 marzo 2005
+	pubblica amministrazione
+		nuove tecnologie
+	privati
+		
+dpcm 22 febbraio 2013
+	firme elettroniche avanzate
+
+eidas
+	electronic identification authentication and signature
+		identificazione elettronica
+		autenticazione elettronica
+		transazioni elettroniche
+		firma elettronica
+
+documento
+	definizione non prevista
+	tipi
+		scritture private
+			fa piena prova delle dichiarazioni di chi la ha sottoscritta
+			firma valida
+				se non disconosciuta
+			autenticata
+		riproduzioni meccaniche
+			tipi
+				foto
+				video
+			piena prova di cose rappresentate
+		atti pubblici
+			da notaio
+			certezza ufficiale
+			contestato come falso
+	informatico
+		rappresentazoine informatica di atti o dati giuridicamente rilevanti
+	elettronico
+		contenuto media
+
+dematerializzazione
+	documento tradizionale
+		inscindibile
+	supporto informatico
+		bit trasferiti e memorizzati
+		inalterabile
+		conservabile
+		imputabile
+		riconosciuto giuridicamente
+		
+meccanismo di firma digitale
+	stringa di dati che ne sintetizza in modo univoco il documento
+	funzione di hash
+		quasi impossibile ottenere la stessa impronta da due documenti leggermente diversi
+	certificazione
+		verficare identità del firmatario
+		associazione a chiave pubblica
+		attestano tali informazioni con certificato
+		pubblicano revoca e sospensione in apposite liste
+	validità
+		efficacia di scrittura privata
+
+macroistruzioni e codici eseguibili
+	il documento non soddisfa requisito di immodificabilità se contiene codice eseguibile che può modificare gli atti
+
+validità email
+	può costituire prova scritta
+		se colui contro il quale sono prodotte non ne disconosce la conformità
+	mail semplice
+		non idonea ad identificare univocamente il mittente
+		non idonea a garantire l'integrità del contenuto
+		non idonea a garantire la data di spedizione
+	pec
+		posta elettronica certificata
+
+copie digitali di originali analogici
+	hano piena efficacia
+		se apposta firma elettronica
+		processi che assicurano che il contenuto sia lo stesso
+			raffronto dei documenti
+	copie per immagine
+		stessa efficacia probatoria
+			se seguono linee guida
+				conservazione
+				riproduzione
+				trasmissione
+				consultazione
+				autenticazione
+				identificazione
+				accesso
+				riutilizzo
+				eliminazione
+				trasferimento
+
+libri e scritture
+	conservati su supporti informatici
+
+conservazione ed esibizione
+	se conservato da pubblica amministraione
+		cessa obbligo di conservazione da parte dei cittadini
+	trasmisione a pubblica amministraione
+		basta invio per mezzo telematico
+		
+pec
+	ricevuta di invio e di consegna
+	
+firma elettronica
+	avanzata
+		connessa automaticamente al firmatatio
+		ideonea a identificare il firmatario
+		creata con dati di creazione della firma
+		collegata ai dati sottoscritti in modo tale che ogni modifica sia rilevabile
+	qualificata
+		creata su un dispositivo qualificato
+		basata su un certificato qualificato
+		tutti gli stati membri ue riconoscono dispositivi qualificati
+		valore delle firme qualificate nel tempo
+			sono valide se è associabile un riferimento temporale che colloca la generazoine in un momento prcedente alla scadenza revoca o sospensione del certificato
+	automatica
+		eseguita previa autorizzazione
+	remota
+		generata su hsm
+			hardware security module
+		controllo esclusivo delle chiavi private dai titolari
+	autenticata
+		da notaio
+		altro pubblico ufficiale autorizzato
+		autenticazione del pubblico ufficiale
+			accertamento identità personale
+			attestazione della sua peresenza
+			accertamento della validità della firma
+	effetti giuridici
+		qualificata
+			stessi effetti di firma autografa
+	titolare
+		chiave privata
+	tutti
+		chiave pubblica
+	verificare provenienza e integrità
+		sostituisce sigillo e timbro
+	certificato
+		valido
+			anche se basata su certificato valido al di fuori della unione europea
+				requisiti previsti eidas
+				certificato garantito da certificatore stabilito
+				certificatore riconosciuto
+		non scaduto
+			mancata sottoscrizione
+		certificato qualificato
+			prestatore di servizi fiduciari
+			requisiti
+				indicazoine che il certificato è qualificato
+				nome e dati di contatto del prestatore di servizi fiduciari
+				identificazione del firmatario
+				chiave pubblica del firmatario
+				periodo di validità del certificato
+				identificazione del certificatore
+				firma elettronica avanzata del certificatore
+				luogo in cui il certificato è disponibile gratuitamente
+				ubicazione dei servizi ai quali rivolgersi per verificare
+			periodo validità
+				agid
+					in funzione degli algoritmi utilizzati
+		revocato
+			cessazione
+			provvedimento giudiziario
+			richiesta del titolare
+			violazione regole tecniche
+			ha effetto dal momento della pubblicazione nella lista di revoca
+		accesso
+			lista certificati revocati
+				pubblica
+			possono essere resi accessibili al pubblico
+			chiunque ha diritto a conoscere se al proprio nome è associato un certificato
+	
+sigillo elettronico
+	per garantire origine e integrità
+	avanzato
+		connesso unicamente al creatore del sigillo
+		idoneo a identificare il creatore del sigillo
+		creato con dati di creazione del sigillo
+		collegato ai dati sigillati in modo tale che ogni modifica sia rilevabile
+	qualificato
+		creato su un dispositivo qualificato
+	effetti giuridici
+		tenuti in considerazione
+		qualificato
+			presunzione di integrità
+			presunzione di correttezza
+			riconosciuto negli stati membri ue
+	validazione temporale
+
+servizi fiduciari
+	fornito dietro remunerazione
+	creazione e verifica di firme elettroniche
+	creazione convalida certificati web
+	conservazoine firme, sigilli e certificati
+	qualificato
+		soddisfa requisiti stabiliti
+	accreditamento
+		presentano ad agid la domanda
+		requisiti
+			società
+			tecnologici
+			certificazioni
+		chi cagiona danno
+			comprovare che ha agito adottato misure per evitare danno
+			risarcire
+
+obblighi del titolare
+	assicurare la custodia
+	adottare misure di sicurezza
+	usare personalmente
+
+conservazione delle chiavi
+	smart card
+	conservati con diligenza
+
+obblighi del prestatore di servizi
+	adottare misure tecniche
+	identificare con certezza
+		responsabile
+			anche se delegata a terzi
+	rendere pubblico il certificato eletronico
+	informare sulla procedura
+	pubblicare tempestivamente la revoca
+	non copiare ne conservare la chiave privata
+	usare sistemi affidabili
+
+tutela segretezza
+	proprietà dati del mittente
+	fino a che non sono stati consegnati al destinatario
+
+spid
+	insieme aperto di soggetti pubblici e privati
+
+isteanze e dichiarazione alle pubbliche amministrazioni
+	anche per via telematica
+		anche con firma elettronica
+		anche con spid
